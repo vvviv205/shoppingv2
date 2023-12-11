@@ -98,23 +98,23 @@ export default function Footer() {
             © 2023 MoH™. All CopyRights Reserved.
           </span>
           <div class="flex mt-4 space-x-5 sm:justify-center md:mt-0">
-            <a href="#" class="text-gray-400 hover:text-white">
+            <a href="https://www.facebook.com/alblymlk/" class="text-gray-400 hover:text-white">
               <BsFacebook />
               <span class="sr-only">Facebook page</span>
             </a>
-            <a href="#" class="text-gray-400 hover:text-white">
+            <a href="https://www.instagram.com/v.vviv/" class="text-gray-400 hover:text-white">
               <BsInstagram />
               <span class="sr-only">Instagram page</span>
             </a>
-            <a href="#" class="text-gray-400 hover:text-white">
+            <a href="https://t.me/b_bbtb" class="text-gray-400 hover:text-white">
               <BsTelegram />
               <span class="sr-only">Telegram inbox</span>
             </a>
-            <a href="#" class="text-gray-400 hover:text-white">
+            <a href="https://mail.google.com/mail/u/?authuser=v.vviv@gmail.com" class="text-gray-400 hover:text-white">
               <BiLogoGmail />
               <span class="sr-only">Gmail contact</span>
             </a>
-            <a href="#" class="text-gray-400 hover:text-white">
+            <a href="https://www.linkedin.com/in/mohammad-heitham-ba249a233/" class="text-gray-400 hover:text-white">
               <BsLinkedin />
               <span class="sr-only">LinkedIn page</span>
             </a>
