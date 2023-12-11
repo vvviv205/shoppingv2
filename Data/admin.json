@@ -1,0 +1,14 @@
+{
+  "admin": [
+    {
+      "sales": 20,
+      "visits": 50,
+      "mainTheme": "light",
+      "mainLan": "Arabic",
+      "mainCurrency": "USD",
+      "exchangeRate": 1450,
+      "social": [{ "name": "facebook", "link": "djfsjdlfsdfls" }],
+      "address": ["Najaf", "Mosul"]
+    }
+  ]
+}
