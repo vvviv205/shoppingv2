@@ -25,7 +25,7 @@ export default function Homepage() {
   return (
     <div className="dark:bg-black h-fit min-h-screen ">
       <div className="flex flex-col-reverse sm:flex-row justify-between min-h-screen  pt-10 sm:pt-44 mx-10 ">
-        <div className="mt-5 sm:mt-0">
+        <div className="mt-2 sm:mt-0">
           <h1 className="dark:text-white text-3xl sm:text-6xl leading-9 sm:leading-[4rem] font-bold">
             Pick your best <br /> brands
           </h1>
@@ -42,7 +42,7 @@ export default function Homepage() {
         </div>
         <img
           src={dark}
-          className="hidden dark:flex w-screen sm:w-[50%] h-32 sm:h-56 "
+          className="hidden dark:flex w-screen sm:w-[50%] h-48 sm:h-56 "
         />
         <img
           src={light}
