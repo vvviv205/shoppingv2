@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.mainNav {
+  @apply font-medium dark:text-slate-100 text-slate-800 cursor-pointer transition-all duration-150 hover:dark:text-gray-400 hover:text-slate-950;
+}
+.seconNav {
+  @apply flex items-center gap-x-3.5 py-2 px-3 rounded-md text-sm cursor-pointer dark:text-slate-100 text-slate-800 hover:bg-gray-200 hover:dark:bg-gray-600 focus:ring-2 focus:ring-blue-500;
+}
+.sideTab {
+  @apply flex items-center  py-2 gap-x-3 px-2.5 w-fit sm:w-auto font-semibold text-xl text-white rounded-lg hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600;
+}
+.staticties {
+  @apply h-44 w-[90%] sm:w-56 bg-white dark:bg-gray-800 p-3 sm:p-6 flex flex-col justify-center items-center;
+}
+.active {
+  @apply bg-slate-600;
+}
