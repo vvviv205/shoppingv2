@@ -41,7 +41,7 @@ export default function Homepage() {
         />
       </div>
 
-      <div className="mt-10 sm:mt-20">
+      <div className="mt-2 sm:mt-20">
         <center>
           <h1 className="dark:text-white text-4xl sm:text-5xl font-semibold">
             Shop by categories
